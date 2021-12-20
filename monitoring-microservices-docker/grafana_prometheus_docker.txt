@@ -1,0 +1,6 @@
+grafana dashboard page----->  localhost:3000   (docker container)
+prometheus----->  localhost:9090     (docker container)
+services-----> http://localhost:11000/add/1/2 and http://localhost:11000/greeting/YourTechBud
+
+
+need to add global config file and fix current haproxy.cfg file???
